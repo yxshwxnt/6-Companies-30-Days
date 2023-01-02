@@ -1,1 +1,1 @@
-"# 6-Companies-30-Days" 
+This repo is created for GFG event 6 companies 30 days 
